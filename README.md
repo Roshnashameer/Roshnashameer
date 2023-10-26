@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roshnashameer
-- 👀 I’m interested in Machine learning,Data Analytics,NLP,MERN Stack development etc
+-👀 Passionate about Machine Learning, Data Analytics, NLP, and MERN Stack development. 🚀 Exploring the endless possibilities of data and the power of AI. Let's collaborate and innovate together! 🌟 #DataScience #MachineLearning #NLP #MERN #OpenSource
 
 
 <!---
